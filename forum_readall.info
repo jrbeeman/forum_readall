@@ -1,0 +1,4 @@
+; $Id$
+name = "Forum Read All"
+description = "Allow users to mark all posts in a forum as read"
+dependencies = forum
